@@ -100,8 +100,6 @@ jessica = {
 
 </div>
 
-> **Para ativar a snake animation:** crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o código do GitHub Actions abaixo.
-
 ---
 
 ## 💡 O que estou aprendendo agora
