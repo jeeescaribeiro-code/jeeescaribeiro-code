@@ -59,11 +59,10 @@ jessica = {
 ### Análise de Hábitos de Compra — Destaques
 
 ```
-✅  98 respondentes analisados
-✅  Clusterização KMeans 
-✅  Modelo de classificação: F1
-✅  Modelo de regressão: MAE
-✅  Dashboard interativo no Looker Studio
+Clusterização KMeans 
+Modelo de classificação: F1
+Modelo de regressão: MAE
+Dashboard interativo no Looker Studio
 ```
 
 ---
@@ -86,7 +85,7 @@ jessica = {
 
 ---
 
-## 🐍 Minhas Contribuições
+## Minhas Contribuições
 
 <div align="center">
 
@@ -102,7 +101,7 @@ jessica = {
 
 ---
 
-## 💡 O que estou aprendendo agora
+## O que estou aprendendo agora
 
 <div align="center">
 
