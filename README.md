@@ -16,18 +16,18 @@
 
 ```python
 jessica = {
-    "nome"       : "Jessica Ribeiro",
-    "localização": "Uberlândia, MG 🇧🇷",
-    "formação"   : "Universidade Federal de Uberlândia",
-    "foco"       : ["Análise de Dados", "Machine Learning", "Visualização"],
-    "atualmente" : "Construindo projetos reais com dados reais 🚀",
-    "contato"    : "linkedin.com/in/jessica-ribeiro-lr"
+    "nome": "Jessica Ribeiro",
+    "localização": "Minas Gerais - BRASIL",
+    "formação": "Universidade Federal de Uberlândia",
+    "foco" : ["Análise de Dados", "Machine Learning", "Visualização", "Desenvolvedora Python"],
+    "atualmente" : "Construindo projetos reais com dados reais",
+    "contato": "linkedin.com/in/jessica-ribeiro-lr"
 }
 ```
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -46,7 +46,7 @@ jessica = {
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos
 
 <div align="center">
 
@@ -56,7 +56,7 @@ jessica = {
 
 </div>
 
-### 🛒 Análise de Hábitos de Compra — Destaques
+### Análise de Hábitos de Compra — Destaques
 
 ```
 ✅  98 respondentes analisados
@@ -68,7 +68,7 @@ jessica = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
