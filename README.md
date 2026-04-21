@@ -60,10 +60,10 @@ jessica = {
 
 ```
 ✅  98 respondentes analisados
-✅  Clusterização KMeans → 3 perfis de consumidor identificados
-✅  Modelo de classificação: F1 ≈ 0.88 (vai usar o app?)
-✅  Modelo de regressão: MAE ≈ R$6 (quanto pagaria?)
-✅  Dashboard interativo no Looker Studio com 3 páginas
+✅  Clusterização KMeans 
+✅  Modelo de classificação: F1
+✅  Modelo de regressão: MAE
+✅  Dashboard interativo no Looker Studio
 ```
 
 ---
