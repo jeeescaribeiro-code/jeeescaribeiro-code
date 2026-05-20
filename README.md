@@ -19,7 +19,7 @@ jessica = {
     "nome": "Jessica Ribeiro",
     "localização": "Minas Gerais - BRASIL",
     "formação": "Universidade Federal de Uberlândia",
-    "foco" : ["Análise de Dados", "Machine Learning", "Visualização", "Desenvolvedora Python"],
+    "foco" : ["Análise de Dados", "Machine Learning", "HTML, CSS", "Desenvolvedora Python"],
     "atualmente" : "Construindo projetos reais com dados reais",
     "contato": "linkedin.com/in/jessica-ribeiro-lr"
 }
