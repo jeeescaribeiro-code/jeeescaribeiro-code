@@ -41,6 +41,9 @@ jessica = {
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-0A0A12?style=for-the-badge&logo=html5&logoColor=#00F0FF)
+![CSS](https://img.shields.io/badge/CSS3-0A0A12?style=for-the-badge&logo=css3&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A12?style=for-the-badge&logo=javascript&logoColor=B8FF3A)
 
 </div>
 
