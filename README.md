@@ -67,25 +67,6 @@ Modelo de classificação: F1
 Modelo de regressão: MAE
 Dashboard interativo no Looker Studio
 ```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jeeescaribeiro-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=a89cf7&icon_color=a89cf7&text_color=c9d1d9&bg_color=0a0a2e&border_color=3d1278" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeescaribeiro-code&layout=compact&theme=tokyonight&title_color=a89cf7&text_color=c9d1d9&bg_color=0a0a2e&border_color=3d1278&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jeeescaribeiro-code&theme=tokyonight&background=0a0a2e&border=3d1278&ring=7F77DD&fire=c8b8f8&currStreakLabel=a89cf7&sideLabels=a89cf7&dates=c9d1d9)
-
-</div>
-
 ---
 
 ## Minhas Contribuições
