@@ -215,6 +215,6 @@ Atualmente estou aprofundando estudos em:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:3d1278,100:0a0a2e&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:3d1278,100:0a0a2e&height=150&section=footer&text=Evidências%20sugerem%20que%20este%20GitHub%20existe%20(estatisticamente%20significativo%2C%20confie%20em%20mim).&fontColor=FFFFFF&fontSize=16&fontAlignY=75)
 
 </div>
