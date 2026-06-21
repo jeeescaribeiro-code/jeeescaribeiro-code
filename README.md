@@ -2,7 +2,7 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,40:1a0a4e,70:3d1278,100:7F77DD&height=220&section=header&text=Jessica%20Ribeiro&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20Machine%20Learning&descSize=18&descAlignY=58&descColor=c8b8f8&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A89CF7&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Python+%7C+SQL+%7C+Machine+Learning+%7C+Dashboards+%E2%9C%A8;Projetos+end-to-end+com+dados+reais+%F0%9F%9A%80;Ci%C3%AAncia+de+Dados+com+storytelling+e+impacto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A89CF7&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Projetos+com+dados%2C+dashboards+e+interfaces+web;An%C3%A1lise+de+dados+aplicada+a+problemas+reais)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica_Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-ribeiro-lr/)
 [![GitHub](https://img.shields.io/badge/GitHub-jeeescaribeiro--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeeescaribeiro-code)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌌 Sobre mim
+## Sobre mim
 
 ```python
 jessica = {
@@ -29,14 +29,14 @@ jessica = {
         "Dashboards",
         "HTML, CSS e JavaScript"
     ],
-    "atualmente": "Construindo projetos reais com dados reais",
     "objetivo": "Atuar em estágio na área de Dados, BI ou Machine Learning",
     "contato": "linkedin.com/in/jessica-ribeiro-lr"
 }
 ```
 
-Sou estudante da **Universidade Federal de Uberlândia**, com foco em **Análise de Dados, Ciência de Dados e Machine Learning**.  
-Gosto de construir projetos completos: da coleta e limpeza dos dados até a modelagem, visualização, documentação e apresentação final.
+Sou estudante da **Universidade Federal de Uberlândia**, com foco em **Análise de Dados, Ciência de Dados e Machine Learning**.
+
+Tenho interesse em projetos que envolvem organização de dados, análise, modelagem, visualização e apresentação de resultados.
 
 ---
 
@@ -46,6 +46,9 @@ Gosto de construir projetos completos: da coleta e limpeza dos dados até a mode
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -54,10 +57,11 @@ Gosto de construir projetos completos: da coleta e limpeza dos dados até a mode
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-3d1278?style=for-the-badge&logo=databricks&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-0A0A12?style=for-the-badge&logo=html5&logoColor=00F0FF)
 ![CSS](https://img.shields.io/badge/CSS3-0A0A12?style=for-the-badge&logo=css3&logoColor=00F0FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A12?style=for-the-badge&logo=javascript&logoColor=B8FF3A)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A12?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </div>
 
@@ -69,10 +73,12 @@ Gosto de construir projetos completos: da coleta e limpeza dos dados até a mode
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Análise de Hábitos de Compra](https://github.com/jeeescaribeiro-code/analise-habitos-compra) | Pesquisa de mercado com 98 respondentes para avaliar a viabilidade de um app de comparação de preços. Inclui EDA, clusterização KMeans, modelos de Machine Learning e dashboard no Looker Studio. | Python · pandas · Scikit-learn · KMeans · Random Forest · SMOTE · Looker Studio |
-| [Price Detector](https://github.com/jeeescaribeiro-code/price-detector) | Continuação do projeto de hábitos de compra, transformando a análise em uma proposta mais aplicada para detecção/comparação de preços e apoio à decisão de compra. | Python · Análise de Dados · Automação · Produto de Dados |
-| [Darts](https://github.com/jeeescaribeiro-code/darts) | Site para controle de pontuação em partidas de dardos, com interface web para registrar jogadas, acompanhar placar e tornar a experiência do jogo mais prática e organizada. | HTML · CSS · JavaScript · Lógica de jogo · Interface Web |
-| [Copa em Dados 2026](https://github.com/jeeescaribeiro-code/copa_mundo2026) | Projeto end-to-end de Ciência de Dados com dados históricos da Copa do Mundo. Usa ranking FIFA, regressão linear para previsão de gols, regressão logística para chance de vitória e site interativo em HTML/CSS/JS. | Python · SQL · pandas · NumPy · Machine Learning · HTML · CSS · JavaScript |
+| [chamados-servicos](https://github.com/jeeescaribeiro-code/chamados-servicos) | Sistema de chamados com app web, API em Python, MySQL e dashboard Power BI. | Python · API · MySQL · SQL · Power BI · DAX · HTML · CSS · JavaScript |
+| [copa_mundo2026](https://github.com/jeeescaribeiro-code/copa_mundo2026) | Projeto de dados sobre a Copa do Mundo 2026, com análise, modelagem e interface web. | Python · SQL · pandas · NumPy · Machine Learning · HTML · CSS · JavaScript |
+| [nosql-suply](https://github.com/jeeescaribeiro-code/nosql-suply) | Projeto aplicado com foco em banco de dados NoSQL e modelagem não relacional. | NoSQL · Modelagem de Dados |
+| [Análise de Hábitos de Compra](https://github.com/jeeescaribeiro-code/analise-habitos-compra) | Pesquisa com 98 respostas, EDA, clusterização e dashboard sobre comportamento de compra. | Python · pandas · Scikit-learn · KMeans · Looker Studio |
+| [Price Detector](https://github.com/jeeescaribeiro-code/price-detector) | Continuação do projeto de hábitos de compra, com foco em comparação/detecção de preços. | Python · Análise de Dados · Produto de Dados |
+| [Darts](https://github.com/jeeescaribeiro-code/darts) | Site para controle de pontuação em partidas de dardos. | HTML · CSS · JavaScript |
 
 </div>
 
@@ -81,37 +87,73 @@ Gosto de construir projetos completos: da coleta e limpeza dos dados até a mode
 ## Destaques Técnicos
 
 ```text
-ETL e limpeza de dados
+SQL para análise de dados
+Modelagem de banco relacional e NoSQL
+Integração Python + MySQL
+Criação de API local
+Dashboards em Power BI e Looker Studio
+DAX para indicadores
 Análise exploratória de dados
 Feature engineering
 Modelos supervisionados de Machine Learning
 Regressão linear e regressão logística
-Avaliação com R², RMSE, MAE, Accuracy, F1 e ROC AUC
-Dashboards e visualização de dados
+Clusterização com KMeans
+Desenvolvimento de interfaces com HTML, CSS e JavaScript
 Documentação técnica de projetos
-Desenvolvimento de interfaces web com HTML, CSS e JavaScript
 ```
 
 ---
 
 ## Projetos com mais detalhes
 
-### Copa em Dados 2026
+### chamados-servicos
 
-Projeto de Ciência de Dados aplicado à Copa do Mundo FIFA 2026.
+Sistema de chamados com integração entre app web, API Python, MySQL e Power BI.
 
 Principais entregas:
 
-- pipeline com Python e SQL;
-- análise exploratória dos dados históricos;
-- criação de variáveis com ranking FIFA;
-- regressão linear para previsão de gols;
-- regressão logística para probabilidade de vitória;
-- documentação técnica;
-- guia estatístico em PDF;
-- site interativo para apresentação dos resultados.
+- cadastro, login e abertura de chamados;
+- API em Python conectando frontend e banco MySQL;
+- estrutura relacional para chamados, usuários, categorias, SLA e atendentes;
+- dashboard Power BI com indicadores de SLA, custo, satisfação, prioridade e fila crítica.
+
+Fluxo:
+
+```text
+App Web -> API Python -> MySQL -> Power BI
+```
+
+Repositório: [chamados-servicos](https://github.com/jeeescaribeiro-code/chamados-servicos)
+
+---
+
+### copa_mundo2026
+
+Projeto de dados aplicado à Copa do Mundo 2026.
+
+Principais entregas:
+
+- pipeline de análise com Python e SQL;
+- análise de dados históricos;
+- uso de ranking FIFA como variável;
+- modelos de Machine Learning para apoio à análise;
+- interface web para apresentação dos resultados.
 
 Repositório: [copa_mundo2026](https://github.com/jeeescaribeiro-code/copa_mundo2026)
+
+---
+
+### nosql-suply
+
+Projeto aplicado para prática de banco de dados NoSQL.
+
+Principais entregas:
+
+- estruturação de dados em modelo não relacional;
+- prática de modelagem NoSQL;
+- organização de dados para consultas e análise.
+
+Repositório: [nosql-suply](https://github.com/jeeescaribeiro-code/nosql-suply)
 
 ---
 
@@ -122,12 +164,10 @@ Projeto de pesquisa e análise de dados sobre comportamento de consumidores.
 Principais entregas:
 
 - análise de 98 respostas;
-- EDA;
+- análise exploratória de dados;
 - clusterização com KMeans;
-- modelos de Machine Learning;
-- balanceamento com SMOTE;
-- dashboard interativo no Looker Studio;
-- análise voltada à validação de uma ideia de produto.
+- dashboard no Looker Studio;
+- análise voltada à validação de ideia de produto.
 
 Repositório: [analise-habitos-compra](https://github.com/jeeescaribeiro-code/analise-habitos-compra)
 
@@ -135,14 +175,13 @@ Repositório: [analise-habitos-compra](https://github.com/jeeescaribeiro-code/an
 
 ### Price Detector
 
-Continuação do projeto de hábitos de compra, com foco em transformar a análise em uma solução mais aplicada.
+Projeto derivado da análise de hábitos de compra, com foco em uma proposta aplicada de produto.
 
-Principais pontos:
+Principais entregas:
 
-- evolução de uma análise exploratória para uma proposta de produto;
+- evolução da análise exploratória para uma proposta de solução;
 - foco em comparação/detecção de preços;
-- conexão entre dados, comportamento de compra e tomada de decisão;
-- aplicação prática do raciocínio de produto orientado por dados.
+- conexão entre dados, comportamento de compra e tomada de decisão.
 
 Repositório: [price-detector](https://github.com/jeeescaribeiro-code/price-detector)
 
@@ -150,15 +189,13 @@ Repositório: [price-detector](https://github.com/jeeescaribeiro-code/price-dete
 
 ### Darts
 
-Site desenvolvido para controlar a pontuação de partidas de dardos.
+Site para controle de pontuação em partidas de dardos.
 
-Principais pontos:
+Principais entregas:
 
 - interface web para registrar pontuações;
 - lógica de atualização do placar;
-- organização da partida de forma visual;
-- prática com HTML, CSS e JavaScript;
-- foco em usabilidade e interação simples.
+- prática com HTML, CSS e JavaScript.
 
 Repositório: [darts](https://github.com/jeeescaribeiro-code/darts)
 
@@ -196,7 +233,6 @@ Atualmente estou aprofundando estudos em:
 - SQL para análise de dados;
 - estatística aplicada;
 - Machine Learning supervisionado;
-- séries temporais;
 - dashboards;
 - comunicação de resultados para portfólio.
 
@@ -215,6 +251,6 @@ Atualmente estou aprofundando estudos em:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:3d1278,100:0a0a2e&height=150&section=footer&text=Evidências%20sugerem%20que%20este%20GitHub%20existe%20(estatisticamente%20significativo%2C%20confie%20em%20mim).&fontColor=FFFFFF&fontSize=16&fontAlignY=75)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:3d1278,100:0a0a2e&height=150&section=footer&text=Obrigada%20pela%20visita.&fontColor=FFFFFF&fontSize=18&fontAlignY=75)
 
 </div>
